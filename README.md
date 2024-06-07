@@ -19,13 +19,12 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-
 <br>
 
 ## Resultado do desafio
 
 ### 📒 Descrição
-Utilizei Inteligência Artificial para traduzir um vídeo do meu canal Youtube de **Português** para **Inglês**.
+Utilizei Inteligência Artificial para traduzir um vídeo do um determinado canal do Youtube de **Inglês** para **Português**. O resultado da tradução foi incrível e uma fluidez impressionante. Estou realmente impressionado com a qualidade da inteligência artificial nesse processo de tradução.
 
 #### 🤖 Tecnologias Utilizadas
 [ElevenLabs](https://elevenlabs.io/)
