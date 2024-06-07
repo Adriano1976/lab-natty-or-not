@@ -2,8 +2,8 @@
 
 A análise de dados com Python é uma habilidade essencial no mundo da programação e da ciência de dados. Este ebook revela alguns dos segredos mais valiosos para dominar essa arte, sempre com exemplos práticos e reais.
 
-<p align="center">
-    <img width="100" src="Assets/banner.png">
+<p align="center"> 
+    <img width="100" src="https://github.com/Adriano1976/python-data-analysis-secrets/blob/main/Assets/banner.png">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ A análise de dados com Python é uma habilidade essencial no mundo da programa�
 
 <p align="center">
 <img 
-    src="./Assets/capa.png"
+    src="https://github.com/Adriano1976/python-data-analysis-secrets/blob/main/Assets/capa.png"
     width="400"  
 />
 </p>
@@ -75,7 +75,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="./Assets/nerd.png"
+      src="https://github.com/Adriano1976/python-data-analysis-secrets/blob/main/Assets/nerd.png"
     />
     <p>&nbsp&nbsp&nbspAdriano Santos<br>
     &nbsp&nbsp&nbsp
